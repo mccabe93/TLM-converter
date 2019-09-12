@@ -1,0 +1,669 @@
+21:27:40: Creating resource group General
+21:27:40: Creating resource group OgreInternal
+21:27:40: Creating resource group OgreAutodetect
+21:27:40: Registering ResourceManager for type Mesh
+21:27:40: Registering ResourceManager for type Material
+21:27:40: Registering ResourceManager for type Skeleton
+21:27:40: ArchiveFactory for archive type FileSystem registered.
+21:27:40: *** Loading ass file... ***
+21:27:40: Filename output/m1.fbx
+21:27:40: Added resource location 'output/' of type 'FileSystem' to resource group 'General'
+21:27:40: Added resource location './resources' of type 'FileSystem' to resource group 'General'
+21:27:40: Parsing scripts for resource group General
+21:27:40: Finished parsing scripts for resource group General
+21:27:40: Creating resources for group General
+21:27:40: All done
+21:27:40: Parsing scripts for resource group OgreAutodetect
+21:27:40: Finished parsing scripts for resource group OgreAutodetect
+21:27:40: Creating resources for group OgreAutodetect
+21:27:40: All done
+21:27:40: Parsing scripts for resource group OgreInternal
+21:27:40: Finished parsing scripts for resource group OgreInternal
+21:27:40: Creating resources for group OgreInternal
+21:27:40: All done
+21:27:40: Node RootNode found.
+21:27:40: Node p0001_monster found.
+21:27:40: Node g0001_monster found.
+21:27:40: Node root found.
+21:27:40: Node bip001_head found.
+21:27:40: Node hh_head found.
+21:27:40: Node bip001_l_calf found.
+21:27:40: Node bip001_l_clavicle found.
+21:27:40: Node bip001_l_finger0 found.
+21:27:40: Node bip001_l_finger1 found.
+21:27:40: Node bip001_l_foot found.
+21:27:40: Node bip001_l_forearm found.
+21:27:40: Node bip001_l_hand found.
+21:27:40: Node bip001_l_thigh found.
+21:27:40: Node bip001_l_upperarm found.
+21:27:40: Node bip001_neck found.
+21:27:40: Node bip001_pelvis found.
+21:27:40: Node bip001_r_calf found.
+21:27:40: Node bip001_r_clavicle found.
+21:27:40: Node bip001_r_finger0 found.
+21:27:40: Node bip001_r_finger1 found.
+21:27:40: Node bip001_r_foot found.
+21:27:40: Node bip001_r_forearm found.
+21:27:40: Node bip001_r_hand found.
+21:27:40: Node bip001_r_thigh found.
+21:27:40: Node bip001_r_upperarm found.
+21:27:40: Node bip001_spine found.
+21:27:40: Node bone001 found.
+21:27:40: Node bone002 found.
+21:27:40: Node bone003 found.
+21:27:40: Node bone004 found.
+21:27:40: Node hitbone found.
+21:27:40: Node hh_hit found.
+21:27:40: Node hh_center found.
+21:27:40: Node p_shadow01 found.
+21:27:40: Node shadow01_plan01 found.
+21:27:40: Node biproot found.
+21:27:40: 0) REAL BONE with name : bip001_l_thigh
+21:27:40: 1) REAL BONE with name : bip001_pelvis
+21:27:40: 2) REAL BONE with name : bip001_r_thigh
+21:27:40: 3) REAL BONE with name : bip001_r_calf
+21:27:40: 4) REAL BONE with name : bip001_l_clavicle
+21:27:40: 5) REAL BONE with name : bip001_spine
+21:27:40: 6) REAL BONE with name : bone003
+21:27:40: 7) REAL BONE with name : bone004
+21:27:40: 8) REAL BONE with name : bip001_r_clavicle
+21:27:40: 9) REAL BONE with name : bip001_r_forearm
+21:27:40: 10) REAL BONE with name : bip001_r_upperarm
+21:27:40: 11) REAL BONE with name : bip001_head
+21:27:40: 12) REAL BONE with name : bip001_neck
+21:27:40: 13) REAL BONE with name : hitbone
+21:27:40: 14) REAL BONE with name : bip001_l_upperarm
+21:27:40: 15) REAL BONE with name : bone002
+21:27:40: 16) REAL BONE with name : bone001
+21:27:40: 17) REAL BONE with name : bip001_l_calf
+21:27:40: 18) REAL BONE with name : bip001_l_foot
+21:27:40: 19) REAL BONE with name : bip001_r_foot
+21:27:40: 20) REAL BONE with name : bip001_l_finger0
+21:27:40: 21) REAL BONE with name : bip001_l_finger1
+21:27:40: 22) REAL BONE with name : bip001_l_forearm
+21:27:40: 23) REAL BONE with name : bip001_l_hand
+21:27:40: 24) REAL BONE with name : bip001_r_finger0
+21:27:40: 25) REAL BONE with name : bip001_r_finger1
+21:27:40: 26) REAL BONE with name : bip001_r_hand
+21:27:40: 0) Creating bone 'p0001_monster'
+21:27:40: 1) Creating bone 'root'
+21:27:40: 2) Creating bone 'bip001_head'
+21:27:40: 3) Creating bone 'hh_head'
+21:27:40: 4) Creating bone 'bip001_l_calf'
+21:27:40: 5) Creating bone 'bip001_l_clavicle'
+21:27:40: 6) Creating bone 'bip001_l_finger0'
+21:27:40: 7) Creating bone 'bip001_l_finger1'
+21:27:40: 8) Creating bone 'bip001_l_foot'
+21:27:40: 9) Creating bone 'bip001_l_forearm'
+21:27:40: 10) Creating bone 'bip001_l_hand'
+21:27:40: 11) Creating bone 'bip001_l_thigh'
+21:27:40: 12) Creating bone 'bip001_l_upperarm'
+21:27:40: 13) Creating bone 'bip001_neck'
+21:27:40: 14) Creating bone 'bip001_pelvis'
+21:27:40: 15) Creating bone 'bip001_r_calf'
+21:27:40: 16) Creating bone 'bip001_r_clavicle'
+21:27:40: 17) Creating bone 'bip001_r_finger0'
+21:27:40: 18) Creating bone 'bip001_r_finger1'
+21:27:40: 19) Creating bone 'bip001_r_foot'
+21:27:40: 20) Creating bone 'bip001_r_forearm'
+21:27:40: 21) Creating bone 'bip001_r_hand'
+21:27:40: 22) Creating bone 'bip001_r_thigh'
+21:27:40: 23) Creating bone 'bip001_r_upperarm'
+21:27:40: 24) Creating bone 'bip001_spine'
+21:27:40: 25) Creating bone 'bone001'
+21:27:40: 26) Creating bone 'bone002'
+21:27:40: 27) Creating bone 'bone003'
+21:27:40: 28) Creating bone 'bone004'
+21:27:40: 29) Creating bone 'hitbone'
+21:27:40: 30) Creating bone 'hh_hit'
+21:27:40: 31) Creating bone 'hh_center'
+21:27:40: Animation name = 'attack_01'
+21:27:40: duration = 57.5
+21:27:40: tick/sec = 30
+21:27:40: channels = 28
+21:27:40: Cut Time inf
+21:27:40: Channel 0
+21:27:40: affecting node: bip001_head
+21:27:40: Channel 1
+21:27:40: affecting node: bip001_l_calf
+21:27:40: Channel 2
+21:27:40: affecting node: bip001_l_clavicle
+21:27:40: Channel 3
+21:27:40: affecting node: bip001_l_finger0
+21:27:40: Channel 4
+21:27:40: affecting node: bip001_l_finger1
+21:27:40: Channel 5
+21:27:40: affecting node: bip001_l_foot
+21:27:40: Channel 6
+21:27:40: affecting node: bip001_l_forearm
+21:27:40: Channel 7
+21:27:40: affecting node: bip001_l_hand
+21:27:40: Channel 8
+21:27:40: affecting node: bip001_l_thigh
+21:27:40: Channel 9
+21:27:40: affecting node: bip001_l_upperarm
+21:27:40: Channel 10
+21:27:40: affecting node: bip001_neck
+21:27:40: Channel 11
+21:27:40: affecting node: bip001_pelvis
+21:27:40: Channel 12
+21:27:40: affecting node: bip001_r_calf
+21:27:40: Channel 13
+21:27:40: affecting node: bip001_r_clavicle
+21:27:40: Channel 14
+21:27:40: affecting node: bip001_r_finger0
+21:27:40: Channel 15
+21:27:40: affecting node: bip001_r_finger1
+21:27:40: Channel 16
+21:27:40: affecting node: bip001_r_foot
+21:27:40: Channel 17
+21:27:40: affecting node: bip001_r_forearm
+21:27:40: Channel 18
+21:27:40: affecting node: bip001_r_hand
+21:27:40: Channel 19
+21:27:40: affecting node: bip001_r_thigh
+21:27:40: Channel 20
+21:27:40: affecting node: bip001_r_upperarm
+21:27:40: Channel 21
+21:27:40: affecting node: bip001_spine
+21:27:40: Channel 22
+21:27:40: affecting node: bone001
+21:27:40: Channel 23
+21:27:40: affecting node: bone002
+21:27:40: Channel 24
+21:27:40: affecting node: bone003
+21:27:40: Channel 25
+21:27:40: affecting node: bone004
+21:27:40: Channel 26
+21:27:40: affecting node: hitbone
+21:27:40: Channel 27
+21:27:40: affecting node: root
+21:27:40: Animation name = 'attack_02'
+21:27:40: duration = 52.5
+21:27:40: tick/sec = 30
+21:27:40: channels = 28
+21:27:40: Cut Time inf
+21:27:40: Channel 0
+21:27:40: affecting node: bip001_head
+21:27:40: Channel 1
+21:27:40: affecting node: bip001_l_calf
+21:27:40: Channel 2
+21:27:40: affecting node: bip001_l_clavicle
+21:27:40: Channel 3
+21:27:40: affecting node: bip001_l_finger0
+21:27:40: Channel 4
+21:27:40: affecting node: bip001_l_finger1
+21:27:40: Channel 5
+21:27:40: affecting node: bip001_l_foot
+21:27:40: Channel 6
+21:27:40: affecting node: bip001_l_forearm
+21:27:40: Channel 7
+21:27:40: affecting node: bip001_l_hand
+21:27:40: Channel 8
+21:27:40: affecting node: bip001_l_thigh
+21:27:40: Channel 9
+21:27:40: affecting node: bip001_l_upperarm
+21:27:40: Channel 10
+21:27:40: affecting node: bip001_neck
+21:27:40: Channel 11
+21:27:40: affecting node: bip001_pelvis
+21:27:40: Channel 12
+21:27:40: affecting node: bip001_r_calf
+21:27:40: Channel 13
+21:27:40: affecting node: bip001_r_clavicle
+21:27:40: Channel 14
+21:27:40: affecting node: bip001_r_finger0
+21:27:40: Channel 15
+21:27:40: affecting node: bip001_r_finger1
+21:27:40: Channel 16
+21:27:40: affecting node: bip001_r_foot
+21:27:40: Channel 17
+21:27:40: affecting node: bip001_r_forearm
+21:27:40: Channel 18
+21:27:40: affecting node: bip001_r_hand
+21:27:40: Channel 19
+21:27:40: affecting node: bip001_r_thigh
+21:27:40: Channel 20
+21:27:40: affecting node: bip001_r_upperarm
+21:27:40: Channel 21
+21:27:40: affecting node: bip001_spine
+21:27:40: Channel 22
+21:27:40: affecting node: bone001
+21:27:40: Channel 23
+21:27:40: affecting node: bone002
+21:27:40: Channel 24
+21:27:40: affecting node: bone003
+21:27:40: Channel 25
+21:27:40: affecting node: bone004
+21:27:40: Channel 26
+21:27:40: affecting node: hitbone
+21:27:40: Channel 27
+21:27:40: affecting node: root
+21:27:40: Animation name = 'die_01'
+21:27:40: duration = 44
+21:27:40: tick/sec = 30
+21:27:40: channels = 28
+21:27:40: Cut Time inf
+21:27:40: Channel 0
+21:27:40: affecting node: bip001_head
+21:27:40: Channel 1
+21:27:40: affecting node: bip001_l_calf
+21:27:40: Channel 2
+21:27:40: affecting node: bip001_l_clavicle
+21:27:40: Channel 3
+21:27:40: affecting node: bip001_l_finger0
+21:27:40: Channel 4
+21:27:40: affecting node: bip001_l_finger1
+21:27:40: Channel 5
+21:27:40: affecting node: bip001_l_foot
+21:27:40: Channel 6
+21:27:40: affecting node: bip001_l_forearm
+21:27:40: Channel 7
+21:27:40: affecting node: bip001_l_hand
+21:27:40: Channel 8
+21:27:40: affecting node: bip001_l_thigh
+21:27:40: Channel 9
+21:27:40: affecting node: bip001_l_upperarm
+21:27:40: Channel 10
+21:27:40: affecting node: bip001_neck
+21:27:40: Channel 11
+21:27:40: affecting node: bip001_pelvis
+21:27:40: Channel 12
+21:27:40: affecting node: bip001_r_calf
+21:27:40: Channel 13
+21:27:40: affecting node: bip001_r_clavicle
+21:27:40: Channel 14
+21:27:40: affecting node: bip001_r_finger0
+21:27:40: Channel 15
+21:27:40: affecting node: bip001_r_finger1
+21:27:40: Channel 16
+21:27:40: affecting node: bip001_r_foot
+21:27:40: Channel 17
+21:27:40: affecting node: bip001_r_forearm
+21:27:40: Channel 18
+21:27:40: affecting node: bip001_r_hand
+21:27:40: Channel 19
+21:27:40: affecting node: bip001_r_thigh
+21:27:40: Channel 20
+21:27:40: affecting node: bip001_r_upperarm
+21:27:40: Channel 21
+21:27:40: affecting node: bip001_spine
+21:27:40: Channel 22
+21:27:40: affecting node: bone001
+21:27:40: Channel 23
+21:27:40: affecting node: bone002
+21:27:40: Channel 24
+21:27:40: affecting node: bone003
+21:27:40: Channel 25
+21:27:40: affecting node: bone004
+21:27:40: Channel 26
+21:27:40: affecting node: hitbone
+21:27:40: Channel 27
+21:27:40: affecting node: root
+21:27:40: Animation name = 'hit_01'
+21:27:40: duration = 16
+21:27:40: tick/sec = 30
+21:27:40: channels = 29
+21:27:40: Cut Time inf
+21:27:40: Channel 0
+21:27:40: affecting node: bip001_head
+21:27:40: Channel 1
+21:27:40: affecting node: bip001_l_calf
+21:27:40: Channel 2
+21:27:40: affecting node: bip001_l_clavicle
+21:27:40: Channel 3
+21:27:40: affecting node: bip001_l_finger0
+21:27:40: Channel 4
+21:27:40: affecting node: bip001_l_finger1
+21:27:40: Channel 5
+21:27:40: affecting node: bip001_l_foot
+21:27:40: Channel 6
+21:27:40: affecting node: bip001_l_forearm
+21:27:40: Channel 7
+21:27:40: affecting node: bip001_l_hand
+21:27:40: Channel 8
+21:27:40: affecting node: bip001_l_thigh
+21:27:40: Channel 9
+21:27:40: affecting node: bip001_l_upperarm
+21:27:40: Channel 10
+21:27:40: affecting node: bip001_neck
+21:27:40: Channel 11
+21:27:40: affecting node: bip001_pelvis
+21:27:40: Channel 12
+21:27:40: affecting node: bip001_r_calf
+21:27:40: Channel 13
+21:27:40: affecting node: bip001_r_clavicle
+21:27:40: Channel 14
+21:27:40: affecting node: bip001_r_finger0
+21:27:40: Channel 15
+21:27:40: affecting node: bip001_r_finger1
+21:27:40: Channel 16
+21:27:40: affecting node: bip001_r_foot
+21:27:40: Channel 17
+21:27:40: affecting node: bip001_r_forearm
+21:27:40: Channel 18
+21:27:40: affecting node: bip001_r_hand
+21:27:40: Channel 19
+21:27:40: affecting node: bip001_r_thigh
+21:27:40: Channel 20
+21:27:40: affecting node: bip001_r_upperarm
+21:27:40: Channel 21
+21:27:40: affecting node: bip001_spine
+21:27:40: Channel 22
+21:27:40: affecting node: bone001
+21:27:40: Channel 23
+21:27:40: affecting node: bone002
+21:27:40: Channel 24
+21:27:40: affecting node: bone003
+21:27:40: Channel 25
+21:27:40: affecting node: bone004
+21:27:40: Channel 26
+21:27:40: affecting node: g0001_monster
+21:27:40: Channel 27
+21:27:40: affecting node: hitbone
+21:27:40: Channel 28
+21:27:40: affecting node: root
+21:27:40: Animation name = 'idle_01'
+21:27:40: duration = 52.5
+21:27:40: tick/sec = 30
+21:27:40: channels = 28
+21:27:40: Cut Time inf
+21:27:40: Channel 0
+21:27:40: affecting node: bip001_head
+21:27:40: Channel 1
+21:27:40: affecting node: bip001_l_calf
+21:27:40: Channel 2
+21:27:40: affecting node: bip001_l_clavicle
+21:27:40: Channel 3
+21:27:40: affecting node: bip001_l_finger0
+21:27:40: Channel 4
+21:27:40: affecting node: bip001_l_finger1
+21:27:40: Channel 5
+21:27:40: affecting node: bip001_l_foot
+21:27:40: Channel 6
+21:27:40: affecting node: bip001_l_forearm
+21:27:40: Channel 7
+21:27:40: affecting node: bip001_l_hand
+21:27:40: Channel 8
+21:27:40: affecting node: bip001_l_thigh
+21:27:40: Channel 9
+21:27:40: affecting node: bip001_l_upperarm
+21:27:40: Channel 10
+21:27:40: affecting node: bip001_neck
+21:27:40: Channel 11
+21:27:40: affecting node: bip001_pelvis
+21:27:40: Channel 12
+21:27:40: affecting node: bip001_r_calf
+21:27:40: Channel 13
+21:27:40: affecting node: bip001_r_clavicle
+21:27:40: Channel 14
+21:27:40: affecting node: bip001_r_finger0
+21:27:40: Channel 15
+21:27:40: affecting node: bip001_r_finger1
+21:27:40: Channel 16
+21:27:40: affecting node: bip001_r_foot
+21:27:40: Channel 17
+21:27:40: affecting node: bip001_r_forearm
+21:27:40: Channel 18
+21:27:40: affecting node: bip001_r_hand
+21:27:40: Channel 19
+21:27:40: affecting node: bip001_r_thigh
+21:27:40: Channel 20
+21:27:40: affecting node: bip001_r_upperarm
+21:27:40: Channel 21
+21:27:40: affecting node: bip001_spine
+21:27:40: Channel 22
+21:27:40: affecting node: bone001
+21:27:40: Channel 23
+21:27:40: affecting node: bone002
+21:27:40: Channel 24
+21:27:40: affecting node: bone003
+21:27:40: Channel 25
+21:27:40: affecting node: bone004
+21:27:40: Channel 26
+21:27:40: affecting node: hitbone
+21:27:40: Channel 27
+21:27:40: affecting node: root
+21:27:40: Animation name = 'run_01'
+21:27:40: duration = 24
+21:27:40: tick/sec = 30
+21:27:40: channels = 28
+21:27:40: Cut Time inf
+21:27:40: Channel 0
+21:27:40: affecting node: bip001_head
+21:27:40: Channel 1
+21:27:40: affecting node: bip001_l_calf
+21:27:40: Channel 2
+21:27:40: affecting node: bip001_l_clavicle
+21:27:40: Channel 3
+21:27:40: affecting node: bip001_l_finger0
+21:27:40: Channel 4
+21:27:40: affecting node: bip001_l_finger1
+21:27:40: Channel 5
+21:27:40: affecting node: bip001_l_foot
+21:27:40: Channel 6
+21:27:40: affecting node: bip001_l_forearm
+21:27:40: Channel 7
+21:27:40: affecting node: bip001_l_hand
+21:27:40: Channel 8
+21:27:40: affecting node: bip001_l_thigh
+21:27:40: Channel 9
+21:27:40: affecting node: bip001_l_upperarm
+21:27:40: Channel 10
+21:27:40: affecting node: bip001_neck
+21:27:40: Channel 11
+21:27:40: affecting node: bip001_pelvis
+21:27:40: Channel 12
+21:27:40: affecting node: bip001_r_calf
+21:27:40: Channel 13
+21:27:40: affecting node: bip001_r_clavicle
+21:27:40: Channel 14
+21:27:40: affecting node: bip001_r_finger0
+21:27:40: Channel 15
+21:27:40: affecting node: bip001_r_finger1
+21:27:40: Channel 16
+21:27:40: affecting node: bip001_r_foot
+21:27:40: Channel 17
+21:27:40: affecting node: bip001_r_forearm
+21:27:40: Channel 18
+21:27:40: affecting node: bip001_r_hand
+21:27:40: Channel 19
+21:27:40: affecting node: bip001_r_thigh
+21:27:40: Channel 20
+21:27:40: affecting node: bip001_r_upperarm
+21:27:40: Channel 21
+21:27:40: affecting node: bip001_spine
+21:27:40: Channel 22
+21:27:40: affecting node: bone001
+21:27:40: Channel 23
+21:27:40: affecting node: bone002
+21:27:40: Channel 24
+21:27:40: affecting node: bone003
+21:27:40: Channel 25
+21:27:40: affecting node: bone004
+21:27:40: Channel 26
+21:27:40: affecting node: hitbone
+21:27:40: Channel 27
+21:27:40: affecting node: root
+21:27:40: Animation name = 'birth_01'
+21:27:40: duration = 48
+21:27:40: tick/sec = 30
+21:27:40: channels = 28
+21:27:40: Cut Time inf
+21:27:40: Channel 0
+21:27:40: affecting node: bip001_head
+21:27:40: Channel 1
+21:27:40: affecting node: bip001_l_calf
+21:27:40: Channel 2
+21:27:40: affecting node: bip001_l_clavicle
+21:27:40: Channel 3
+21:27:40: affecting node: bip001_l_finger0
+21:27:40: Channel 4
+21:27:40: affecting node: bip001_l_finger1
+21:27:40: Channel 5
+21:27:40: affecting node: bip001_l_foot
+21:27:40: Channel 6
+21:27:40: affecting node: bip001_l_forearm
+21:27:40: Channel 7
+21:27:40: affecting node: bip001_l_hand
+21:27:40: Channel 8
+21:27:40: affecting node: bip001_l_thigh
+21:27:40: Channel 9
+21:27:40: affecting node: bip001_l_upperarm
+21:27:40: Channel 10
+21:27:40: affecting node: bip001_neck
+21:27:40: Channel 11
+21:27:40: affecting node: bip001_pelvis
+21:27:40: Channel 12
+21:27:40: affecting node: bip001_r_calf
+21:27:40: Channel 13
+21:27:40: affecting node: bip001_r_clavicle
+21:27:40: Channel 14
+21:27:40: affecting node: bip001_r_finger0
+21:27:40: Channel 15
+21:27:40: affecting node: bip001_r_finger1
+21:27:40: Channel 16
+21:27:40: affecting node: bip001_r_foot
+21:27:40: Channel 17
+21:27:40: affecting node: bip001_r_forearm
+21:27:40: Channel 18
+21:27:40: affecting node: bip001_r_hand
+21:27:40: Channel 19
+21:27:40: affecting node: bip001_r_thigh
+21:27:40: Channel 20
+21:27:40: affecting node: bip001_r_upperarm
+21:27:40: Channel 21
+21:27:40: affecting node: bip001_spine
+21:27:40: Channel 22
+21:27:40: affecting node: bone001
+21:27:40: Channel 23
+21:27:40: affecting node: bone002
+21:27:40: Channel 24
+21:27:40: affecting node: bone003
+21:27:40: Channel 25
+21:27:40: affecting node: bone004
+21:27:40: Channel 26
+21:27:40: affecting node: hitbone
+21:27:40: Channel 27
+21:27:40: affecting node: root
+21:27:40: Animation name = 'skill_01'
+21:27:40: duration = 55
+21:27:40: tick/sec = 30
+21:27:40: channels = 28
+21:27:40: Cut Time inf
+21:27:40: Channel 0
+21:27:40: affecting node: bip001_head
+21:27:40: Channel 1
+21:27:40: affecting node: bip001_l_calf
+21:27:40: Channel 2
+21:27:40: affecting node: bip001_l_clavicle
+21:27:40: Channel 3
+21:27:40: affecting node: bip001_l_finger0
+21:27:40: Channel 4
+21:27:40: affecting node: bip001_l_finger1
+21:27:40: Channel 5
+21:27:40: affecting node: bip001_l_foot
+21:27:40: Channel 6
+21:27:40: affecting node: bip001_l_forearm
+21:27:40: Channel 7
+21:27:40: affecting node: bip001_l_hand
+21:27:40: Channel 8
+21:27:40: affecting node: bip001_l_thigh
+21:27:40: Channel 9
+21:27:40: affecting node: bip001_l_upperarm
+21:27:40: Channel 10
+21:27:40: affecting node: bip001_neck
+21:27:40: Channel 11
+21:27:40: affecting node: bip001_pelvis
+21:27:40: Channel 12
+21:27:40: affecting node: bip001_r_calf
+21:27:40: Channel 13
+21:27:40: affecting node: bip001_r_clavicle
+21:27:40: Channel 14
+21:27:40: affecting node: bip001_r_finger0
+21:27:40: Channel 15
+21:27:40: affecting node: bip001_r_finger1
+21:27:40: Channel 16
+21:27:40: affecting node: bip001_r_foot
+21:27:40: Channel 17
+21:27:40: affecting node: bip001_r_forearm
+21:27:40: Channel 18
+21:27:40: affecting node: bip001_r_hand
+21:27:40: Channel 19
+21:27:40: affecting node: bip001_r_thigh
+21:27:40: Channel 20
+21:27:40: affecting node: bip001_r_upperarm
+21:27:40: Channel 21
+21:27:40: affecting node: bip001_spine
+21:27:40: Channel 22
+21:27:40: affecting node: bone001
+21:27:40: Channel 23
+21:27:40: affecting node: bone002
+21:27:40: Channel 24
+21:27:40: affecting node: bone003
+21:27:40: Channel 25
+21:27:40: affecting node: bone004
+21:27:40: Channel 26
+21:27:40: affecting node: hitbone
+21:27:40: Channel 27
+21:27:40: affecting node: root
+21:27:40: SubMesh 0 for mesh 'g0001_monster'
+21:27:40: Using aiGetMaterialString : Found texture ..\t0001_monster_d.png for channel 0
+21:27:40: Creating t0001_monster_d.png
+21:27:40: Material t0001_monster_d.png was requested with isManual=true, but this is not applicable for materials; the flag has been reset to false
+21:27:40: Found texture ..\t0001_monster_d.png for channel 0
+21:27:40: Using aiGetMaterialString : Found texture ..\t0001_monster_d.png for channel 0
+21:27:40: 1173 vertices
+21:27:40: 1173 normals
+21:27:40: 1173 uvs
+21:27:40: 1200 faces
+21:27:40: SubMesh 0 for mesh 'shadow01_plan01'
+21:27:40: Skipping Mesh shadow01_plan01with no bone weights
+21:27:40: *** Finished loading ass file ***
+21:27:40: Root bone: p0001_monster
+21:27:40: Exporting bones..
+21:27:40: Bones exported.
+21:27:40: Exporting animations, count=8
+21:27:40: Exporting animation: attack_01
+21:27:40: Animation exported.
+21:27:40: Exporting animation: attack_02
+21:27:40: Animation exported.
+21:27:40: Exporting animation: birth_01
+21:27:40: Animation exported.
+21:27:40: Exporting animation: die_01
+21:27:40: Animation exported.
+21:27:40: Exporting animation: hit_01
+21:27:40: Animation exported.
+21:27:40: Exporting animation: idle_01
+21:27:40: Animation exported.
+21:27:40: Exporting animation: run_01
+21:27:40: Animation exported.
+21:27:40: Exporting animation: skill_01
+21:27:40: Animation exported.
+21:27:40: Skeleton: Loading m1_fbx.skeleton
+21:27:40: Ogre::FileNotFoundException::FileNotFoundException: Cannot locate resource m1_fbx.skeleton in resource group General. in ResourceGroupManager::openResource at C:\Users\Mike\Downloads\ogre-1.12.1\OgreMain\src\OgreResourceGroupManager.cpp (line 705)
+21:27:40: Error: Unable to load skeleton 'm1_fbx.skeleton' for Mesh 'ROOTMesh'. This Mesh will not be animated. You can ignore this message if you are using an offline tool.
+21:27:40: MeshSerializer writing mesh data to stream ...
+21:27:40: File header written.
+21:27:40: Writing mesh data...
+21:27:40: Writing submesh...
+21:27:40: Exporting submesh texture aliases...
+21:27:40: Submesh texture aliases exported.
+21:27:40: Exporting dedicated geometry bone assignments...
+21:27:40: Dedicated geometry bone assignments exported.
+21:27:40: Submesh exported.
+21:27:40: Exporting skeleton link...
+21:27:40: Skeleton link exported.
+21:27:40: Exporting bounds information....
+21:27:40: Bounds information exported.
+21:27:40: Exporting submesh name table...
+21:27:40: Submesh name table exported.
+21:27:40: Mesh data exported.
+21:27:40: MeshSerializer export successful.
+21:27:40: MaterialSerializer : writing material t0001_monster_d.png to queue.
+21:27:40: MaterialSerializer : parsing texture layer.
+21:27:40: MaterialSerializer : done.
+21:27:40: MaterialSerializer : writing material(s) to material script : output/m1_fbx.material
+21:27:40: MaterialSerializer : done.
+21:27:40: Unregistering ResourceManager for type Skeleton
+21:27:40: Unregistering ResourceManager for type Material
